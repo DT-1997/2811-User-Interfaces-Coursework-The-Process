@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>play-fill.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>avatar1.png</file>
+        <file>avatar2.png</file>
+        <file>avatar3.png</file>
+        <file>avatar4.png</file>
+        <file>avatar5.png</file>
+        <file>iconfont.ttf</file>
+        <file>avatar6.png</file>
+        <file>default.png</file>
+    </qresource>
+</RCC>
